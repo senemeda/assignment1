@@ -1,0 +1,7 @@
+# Question 1
+
+five_int = 5  
+pi_float = 3.14  
+is_true = True  
+name_str = "Enes"  
+numbers_list = [1, 2, 3, 4, 5]
